@@ -1,0 +1,15 @@
+
+2016-09-06 11:42:14,466 - [INFO] - from application in ForkJoinPool-1-worker-17 - [WS] GET https://es.development.douglas.de/douglas/json/configuration/smartBanner.json took 55 ms correlationId: 9c8de895-39c0-4623-a6a9-d771cd8795cb
+
+2016-09-06 11:42:14,467 - [ERROR] - from application in ForkJoinPool-1-worker-17 - [WS] GET https://no.development.douglas.de/douglas/json/contentTeasers.json took 58 ms correlationId: 9572c2b2-4a2d-47cc-8466-1e98f44cfc8e
+
+2016-09-06 11:42:14,469 - [INFO] - from application in ForkJoinPool-1-worker-3 - [WS] GET https://no.development.douglas.de/douglas/json/serviceFooter.json took 56 ms correlationId: 9572c2b2-4a2d-47cc-8466-1e98f44cfc8e
+
+2016-09-06 11:42:14,516 - [DEBUG] - from application in ForkJoinPool-1-worker-2 - [WS] GET https://es.development.douglas.de/douglas/json/favoritesV2/1/10.json took 133 ms correlationId: 9c8de895-39c0-4623-a6a9-d771cd8795cb
+
+2016-09-06 11:42:14,524 - [INFO] - from application in ForkJoinPool-1-worker-2 - [WS] GET https://ch.development.douglas.de/douglas/json/favoritesV2/1/10.json took 141 ms correlationId: c56b0dd8-4412-4e2b-98c7-36061492ae8a
+
+2016-09-06 11:42:14,552 - [INFO] - from application in ForkJoinPool-1-worker-17 - [WS] GET https://no.development.douglas.de/douglas/json/favoritesV2/1/10.json took 166 ms correlationId: 9572c2b2-4a2d-47cc-8466-1e98f44cfc8e
+
+2016-09-06 11:42:14,563 - [INFO] - from application in ForkJoinPool-1-worker-3 - [WS] GET https://cz.development.douglas.de/douglas/json/favoritesV2/1/10.json took 202 ms correlationId: ed67dc74-27ad-47ca-ba3a-5806b83e78ed
+
